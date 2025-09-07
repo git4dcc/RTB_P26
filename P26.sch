@@ -5,11 +5,11 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 4
 Title "RTB P26 Railcom/Motor IF"
-Date "2024-09-29"
-Rev "0"
+Date "2025-09-07"
+Rev "1"
 Comp "Frank Schumacher"
 Comment1 "Railcom sender & Motor driver"
-Comment2 "P26.0"
+Comment2 "P26.1"
 Comment3 ""
 Comment4 ""
 $EndDescr
