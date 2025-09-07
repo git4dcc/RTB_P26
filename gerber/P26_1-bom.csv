@@ -1,0 +1,22 @@
+Value,Designator,Footprint,JLCPCB Part#,Description
+100n,"C2,C4",Capacitor_SMD:C_0603_1608Metric,C14663,100nF 50V X7R ñ10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+22u,C3,Capacitor_SMD:C_0603_1608Metric,C59461,22uF 6.3V X5R ñ20% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+1u,"C5,C6",Capacitor_SMD:C_0603_1608Metric,C15849,1uF 50V X5R ñ10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+10u,"C1,C7",Capacitor_SMD:C_0603_1608Metric,C96446,10uF 25V X5R ñ20% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+BAS3007ARPPE6327HTSA1,D1,BF998215,C6430958,30V 350uA@30V 5A 600mV@700mA 900mA SOT-143 Schottky Diodes ROHS
+LED (wht),"D2,D3",LED_SMD:LED_0603_1608Metric,C2290,100mW 120ø 2.6V~3.1V 360mcd 5mA White 0603 LED Indication - Discrete ROHS
+LED (blue),D4,LED_SMD:LED_0603_1608Metric,C965807,120ø 20mA 3.3V 300mcd 455nm~475nm 470nm 70mW Blue Water Clear op View Mount 0603 LED Indication - Discrete ROHS
+LED (green),D5,LED_SMD:LED_0603_1608Metric,C84264,-30?~+85? 1.6V~2.6V 13mcd 140ø 25mA 565nm~578nm 576nm 65mW Yellow Green 0603 LED Indication - Discrete ROHS
+D_Schottky,"D6,D7",RTB:SM5819L2TP,C3012686,-40?~+125? 200mA 30uA@30V 3A 40V 480mV@200mA SOD-923F Schottky Diodes ROHS
+DRV8231ADSGR,IC1,SON50P200X200X80-9N,C5139865,"DRV8231: 4.5-V to 33-V, 600-m, shunt"
+BC847BDW1,Q1,Package_TO_SOT_SMD:SOT-363_SC-70-6,C164103,"-55?~+150? 1 NPN + 1 PNP 100MHz 100mA 15nA 200@2.0mA,5.0V 380mW 45V 600mV@10mA,0.5mA 6V NPN+PNP SOT-363(SC-88) Bipolar (BJT) ROHS"
+BC857BDW1,Q2,Package_TO_SOT_SMD:SOT-363_SC-70-6,C383198,"-55?~+150? 100MHz 100mA 150@2.0mA,5.0V 15nA 250mW 45V 5V 650mV PNP SOT-363(SC-88) Bipolar (BJT) ROHS"
+33k,"R1,R2",Resistor_SMD:R_0603_1608Metric,C4216,-55?~+155? 100mW 33kê 75V Thick Film Resistor ñ1% ñ100ppm/? 0603 Chip Resistor - Surface Mount ROHS
+47k,"R14,R16",Resistor_SMD:R_0603_1608Metric,C25819,-55?~+155? 100mW 47kê 75V Thick Film Resistor ñ1% ñ100ppm/? 0603 Chip Resistor - Surface Mount ROHS
+3.3k,"R12,R18,R19,R20,R21",Resistor_SMD:R_0603_1608Metric,C22978,-55?~+155? 100mW 3.3kê 75V Thick Film Resistor ñ1% ñ100ppm/? 0603 Chip Resistor - Surface Mount ROHS
+22,R3,Resistor_SMD:R_0603_1608Metric,C23345,-55?~+155? 100mW 22ê 75V Thick Film Resistor ñ1% ñ100ppm/? 0603 Chip Resistor - Surface Mount ROHS
+10k,"R4,R5,R10,R11,R15,R17",Resistor_SMD:R_0603_1608Metric,C25804,-55?~+155? 100mW 10kê 75V Thick Film Resistor ñ1% ñ100ppm/? 0603 Chip Resistor - Surface Mount ROHS
+220k,"R6,R7,R13",Resistor_SMD:R_0603_1608Metric,C22961,-55?~+155? 100mW 220kê 75V Thick Film Resistor ñ1% ñ100ppm/? 0603 Chip Resistor - Surface Mount ROHS
+9.1k,"R8,R9",Resistor_SMD:R_0603_1608Metric,C23260,-55?~+155? 100mW 75V 9.1kê Thick Film Resistor ñ1% ñ100ppm/? 0603 Chip Resistor - Surface Mount ROHS
+TPS22810DRVR,U1,Package_DFN_QFN:DFN-6-1EP_2x2mm_P0.65mm_EP1x1.6mm,C527679,-40?~+105? 1 2.7V~18V 3A 79mê Active High Load Switch Undervoltage Protection(UVP) WSON-6-EP(2x2) Power Distribution Switches ROHS
+MIC5205-3.3YM5,U2,Package_TO_SOT_SMD:SOT-23-5,C37970,"-40?~+125?@(Tj) 1 150mA 16V 3.3V 350mV@(150mA) 600uA 75dB@(100Hz) Fixed Over Current Protection Positive SOT-23-5 Voltage Regulators - Linear, Low Drop Out (LDO) Regulators ROHS"
