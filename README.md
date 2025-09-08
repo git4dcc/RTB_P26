@@ -32,6 +32,7 @@ My PCB layout uses SMD footprints with mainly 0603 parts. With some experience h
 - Dimensions: 42mm x 22mm
 - VDD voltage: 3.3V, 50mA (optional 5V using a different LDO)
 - 18V max DCC voltage
+- Railcom transmitter
 - Inrush limiter: TPS22810
 - H-Bridge: DRV8231
 
