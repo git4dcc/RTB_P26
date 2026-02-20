@@ -8,7 +8,7 @@ This is a **motor DCC decoder development board** you can plug right into a brea
 <details>
 <summary>See also</summary>
 
-- [RTB_D16](https://github.com/git4dcc/RTB_D16) (DCC Decoder)
+- [RTB_D16](/../../../../git4dcc/RTB_D16) (DCC Decoder)
 
 </details>
 
@@ -43,7 +43,7 @@ My PCB layout uses SMD footprints with mainly 0603 parts. With some experience h
 <summary>Dependency</summary>
 <br>
 
-:yellow_circle: Requires my Kicad project library [RTB_SamacSys](https://github.com/git4dcc/RTB_SamacSys) in the same directory tree.
+:yellow_circle: Requires my Kicad project library [RTB_SamacSys](/../../../../git4dcc/RTB_SamacSys) in the same directory tree.
 
 </details>
 
